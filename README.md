@@ -3,7 +3,7 @@
 A new Flutter application.
 <br /> <br />
 <img src='assets/ic_launcher.png'>
-## New FeaturesImge 
+## New Features 
 
 <ul>
   <li> BLoC </li>
