@@ -1,6 +1,7 @@
 # Time Tracker App
 
 A new Flutter application.
+<img src='assets/ic_launcher.png'>
 
 ## Getting Started
 
