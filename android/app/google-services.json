@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960385955180",
+    "firebase_url": "https://time-tracker-13.firebaseio.com",
+    "project_id": "time-tracker-13",
+    "storage_bucket": "time-tracker-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960385955180:android:fea03dc41a504aec51ef49",
+        "android_client_info": {
+          "package_name": "com.udemy.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960385955180-me5r03pr5i3s3sglq6ckjrn1gpff42mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udemy.first",
+            "certificate_hash": "f187497f54daf23a149086e4767fb5cb4f0cd6ad"
+          }
+        },
+        {
+          "client_id": "960385955180-eb7qf2fnqqp0897qldn4pelfbtbg3k42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRNVgkp-LCbz5L-_40dkSeNIciswvoZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960385955180-eb7qf2fnqqp0897qldn4pelfbtbg3k42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
