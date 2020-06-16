@@ -1,6 +1,18 @@
-# first
+# Time Tracker App
 
 A new Flutter application.
+<br /> <br />
+<img src='assets/ic_launcher.png'>
+## New Features 
+
+<ul>
+  <li> BLoC </li>
+  <li> Sign in with fcebook </li>
+  <li> Image uploading </li>
+</ul>
+<br />
+
+
 
 ## Getting Started
 
